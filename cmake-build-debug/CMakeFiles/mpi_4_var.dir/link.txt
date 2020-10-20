@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/mpi_4_var.dir/main.cpp.o  -o mpi_4_var  -Wl,-rpath,/usr/lib/x86_64-linux-gnu/openmpi/lib /usr/lib/x86_64-linux-gnu/openmpi/lib/libmpi_cxx.so /usr/lib/x86_64-linux-gnu/openmpi/lib/libmpi.so 

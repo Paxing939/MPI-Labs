@@ -1,0 +1,3 @@
+/home/ilya/CLionProjects/mpi 4 var/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ilya/CLionProjects/mpi 4 var/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ilya/CLionProjects/mpi 4 var/cmake-build-debug/CMakeFiles/mpi_4_var.dir
