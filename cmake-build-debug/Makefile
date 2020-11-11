@@ -143,32 +143,32 @@ mpi_4_var/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/mpi_4_var.dir/build.make CMakeFiles/mpi_4_var.dir/build
 .PHONY : mpi_4_var/fast
 
-main.o: main.cpp.o
+Lab_2.o: Lab_2.cpp.o
 
-.PHONY : main.o
+.PHONY : Lab_2.o
 
 # target to build an object file
-main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mpi_4_var.dir/build.make CMakeFiles/mpi_4_var.dir/main.cpp.o
-.PHONY : main.cpp.o
+Lab_2.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mpi_4_var.dir/build.make CMakeFiles/mpi_4_var.dir/Lab_2.cpp.o
+.PHONY : Lab_2.cpp.o
 
-main.i: main.cpp.i
+Lab_2.i: Lab_2.cpp.i
 
-.PHONY : main.i
+.PHONY : Lab_2.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mpi_4_var.dir/build.make CMakeFiles/mpi_4_var.dir/main.cpp.i
-.PHONY : main.cpp.i
+Lab_2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mpi_4_var.dir/build.make CMakeFiles/mpi_4_var.dir/Lab_2.cpp.i
+.PHONY : Lab_2.cpp.i
 
-main.s: main.cpp.s
+Lab_2.s: Lab_2.cpp.s
 
-.PHONY : main.s
+.PHONY : Lab_2.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/mpi_4_var.dir/build.make CMakeFiles/mpi_4_var.dir/main.cpp.s
-.PHONY : main.cpp.s
+Lab_2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/mpi_4_var.dir/build.make CMakeFiles/mpi_4_var.dir/Lab_2.cpp.s
+.PHONY : Lab_2.cpp.s
 
 # Help Target
 help:
@@ -179,9 +179,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... mpi_4_var"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... Lab_2.o"
+	@echo "... Lab_2.i"
+	@echo "... Lab_2.s"
 .PHONY : help
 
 

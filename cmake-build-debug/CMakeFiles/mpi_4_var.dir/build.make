@@ -77,27 +77,27 @@ include CMakeFiles/mpi_4_var.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/mpi_4_var.dir/flags.make
 
-CMakeFiles/mpi_4_var.dir/main.cpp.o: CMakeFiles/mpi_4_var.dir/flags.make
-CMakeFiles/mpi_4_var.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/ilya/CLionProjects/mpi 4 var/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/mpi_4_var.dir/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mpi_4_var.dir/main.cpp.o -c "/home/ilya/CLionProjects/mpi 4 var/main.cpp"
+CMakeFiles/mpi_4_var.dir/Lab_2.cpp.o: CMakeFiles/mpi_4_var.dir/flags.make
+CMakeFiles/mpi_4_var.dir/Lab_2.cpp.o: ../Lab_2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/ilya/CLionProjects/mpi 4 var/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/mpi_4_var.dir/Lab_2.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/mpi_4_var.dir/Lab_2.cpp.o -c "/home/ilya/CLionProjects/mpi 4 var/Lab_2.cpp"
 
-CMakeFiles/mpi_4_var.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mpi_4_var.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/ilya/CLionProjects/mpi 4 var/main.cpp" > CMakeFiles/mpi_4_var.dir/main.cpp.i
+CMakeFiles/mpi_4_var.dir/Lab_2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/mpi_4_var.dir/Lab_2.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/ilya/CLionProjects/mpi 4 var/Lab_2.cpp" > CMakeFiles/mpi_4_var.dir/Lab_2.cpp.i
 
-CMakeFiles/mpi_4_var.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mpi_4_var.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/ilya/CLionProjects/mpi 4 var/main.cpp" -o CMakeFiles/mpi_4_var.dir/main.cpp.s
+CMakeFiles/mpi_4_var.dir/Lab_2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/mpi_4_var.dir/Lab_2.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/ilya/CLionProjects/mpi 4 var/Lab_2.cpp" -o CMakeFiles/mpi_4_var.dir/Lab_2.cpp.s
 
 # Object files for target mpi_4_var
 mpi_4_var_OBJECTS = \
-"CMakeFiles/mpi_4_var.dir/main.cpp.o"
+"CMakeFiles/mpi_4_var.dir/Lab_2.cpp.o"
 
 # External object files for target mpi_4_var
 mpi_4_var_EXTERNAL_OBJECTS =
 
-mpi_4_var: CMakeFiles/mpi_4_var.dir/main.cpp.o
+mpi_4_var: CMakeFiles/mpi_4_var.dir/Lab_2.cpp.o
 mpi_4_var: CMakeFiles/mpi_4_var.dir/build.make
 mpi_4_var: /usr/lib/x86_64-linux-gnu/openmpi/lib/libmpi_cxx.so
 mpi_4_var: /usr/lib/x86_64-linux-gnu/openmpi/lib/libmpi.so

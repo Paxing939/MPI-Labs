@@ -88,7 +88,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/ilya/CLionProjects/mpi 4 var/main.cpp">
+		<Unit filename="/home/ilya/CLionProjects/mpi 4 var/Lab_2.cpp">
 			<Option target="mpi_4_var"/>
 		</Unit>
 		<Unit filename="/home/ilya/CLionProjects/mpi 4 var/CMakeLists.txt">

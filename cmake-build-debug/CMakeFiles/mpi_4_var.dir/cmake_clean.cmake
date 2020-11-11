@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/mpi_4_var.dir/main.cpp.o"
+  "CMakeFiles/mpi_4_var.dir/Lab_2.cpp.o"
   "mpi_4_var"
   "mpi_4_var.pdb"
 )
